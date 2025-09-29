@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Codewars Badge](https://www.codewars.com/users/RoNiN-shadow/badges/large)
+
 <!--
 **RoNiN-shadow/RoNiN-shadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
